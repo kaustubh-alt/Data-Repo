@@ -1,0 +1,1 @@
+The temp.py file considers the toss decision and allows filtering based on the opposition team. You can specify an opposition team to get more granular insights into the team's performance against a particular opponent. Let me know if you need further enhancements!
